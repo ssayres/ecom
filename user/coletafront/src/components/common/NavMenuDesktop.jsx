@@ -1,11 +1,16 @@
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
+import {Container, Navbar} from 'react-bootstrap';
 
 class NavMenuDesktop extends Component {
   render() {
     return (
-      <div>
-        
-      </div>
+      <Fragment>
+      <Navbar bg="light">
+      <Container>
+      <Navbar.Brand href="#home"> Teste Navbar</Navbar.Brand>
+      </Container>
+      </Navbar>
+      </Fragment>
     )
   }
 }

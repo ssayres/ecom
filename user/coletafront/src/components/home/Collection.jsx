@@ -4,6 +4,8 @@ class Collection extends Component {
   render() {
     return (
       <Fragment>
+      <br></br>
+      <br></br>
         <Container className="text-center" fluid={true}>
         <div className="section title text-center mb-55"><h2>Featured Product</h2>
         <p>Exemplo</p>

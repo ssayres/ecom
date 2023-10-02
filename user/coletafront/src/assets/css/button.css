@@ -1,6 +1,7 @@
 .btn{
     border: none !important;
     border-radius: 0px !important;
+    margin-right: 10px;
 }
 .btn:focus{
     box-shadow: none;
@@ -45,4 +46,15 @@
     opacity: 0.32;
     transform: translate(-50%, -50%) scale(0);
     transition: transform 0s;
+}
+
+
+.site-btn-login{
+    font-weight:300;
+    padding: 5px;
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white !important;
+    background: #051b35 !important;
+
 }

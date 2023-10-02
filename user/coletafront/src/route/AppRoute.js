@@ -9,7 +9,7 @@ export class AppRoute extends Component {
       <Fragment>
             <Routes>
                 <Route path="/" Component={HomePage} />
-                <Route exact path="/login" component={UserLoginPage} />
+                <Route path="/login" Component={UserLoginPage} />
             </Routes>
       </Fragment>
     )

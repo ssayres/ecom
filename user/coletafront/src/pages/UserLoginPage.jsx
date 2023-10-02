@@ -1,19 +1,20 @@
-import React, { Component, Fragment } from 'react'
-import NavMenuDesktop from '../components/common/NavMenuDesktop'
+import React, { Component, Fragment } from "react";
+import NavMenuDesktop from "../components/common/NavMenuDesktop";
+import UserLogin from "../components/common/UserLogin";
 
 
-export class UserLoginPage extends Component {
+class UserLoginPage extends Component {
+
   render() {
     return (
       <Fragment>
-      <div className='Desktop'>
+      <div className="Desktop">
       <NavMenuDesktop/>
-  
       </div>
-
+      <UserLogin/>
       </Fragment>
-    )
+    );
   }
 }
 
-export default UserLoginPage
+export default UserLoginPage;

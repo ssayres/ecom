@@ -13,7 +13,7 @@ class Collection extends Component {
           <Row>
             <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box-card">
-            <img className="center" src="https://rukminim1.flixcart.com/image/416/416/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagefxfwbszrxkvu.jpeg?q=70"/>
+            <img className="center" src=""/>
             <Card.Body>
             <p className="product-name-on-card">Raphinha</p>
             <p className="product-price-on-card">Raphinha</p>
@@ -23,7 +23,7 @@ class Collection extends Component {
             </Col>
             <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box-card">
-            <img className="center" src="https://rukminim1.flixcart.com/image/416/416/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagefxfwbszrxkvu.jpeg?q=70"/>
+            <img className="center" src=""/>
             <Card.Body>
             <p className="product-name-on-card">Raphinha</p>
             <p className="product-price-on-card">Raphinha</p>
@@ -33,7 +33,7 @@ class Collection extends Component {
             </Col>
             <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box-card">
-            <img className="center" src="https://rukminim1.flixcart.com/image/416/416/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagefxfwbszrxkvu.jpeg?q=70"/>
+            <img className="center" src=""/>
             <Card.Body>
             <p className="product-name-on-card">Raphinha</p>
             <p className="product-price-on-card">Raphinha</p>
@@ -43,7 +43,7 @@ class Collection extends Component {
             </Col>
             <Col className="p-0" xl={3} lg={3} md={3} sm={6} xs={6}>
             <Card className="image-box-card">
-            <img className="center" src="https://rukminim1.flixcart.com/image/416/416/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagefxfwbszrxkvu.jpeg?q=70"/>
+            <img className="center" src=""/>
             <Card.Body>
             <p className="product-name-on-card">Raphinha</p>
             <p className="product-price-on-card">Raphinha</p>
